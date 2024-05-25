@@ -1,4 +1,4 @@
-# WSO2-2021-1259: H2 RCE via Malicious JDBC Connection String
+# WSO2-2021-1259: H2 RCE via Malicious JDBC Connection String in WSO2 ESB
 
 Due to the improper input validation, a remote code execution attack could be carried out using malicious H2 JDBC Connection Strings.
 
